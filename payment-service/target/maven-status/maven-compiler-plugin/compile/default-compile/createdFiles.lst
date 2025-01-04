@@ -1,5 +1,0 @@
-com\cloudnativeplayground\paymentservice\controller\PaymentController.class
-com\cloudnativeplayground\paymentservice\service\PaymentService.class
-com\cloudnativeplayground\paymentservice\model\Payment.class
-com\cloudnativeplayground\paymentservice\PaymentServiceApplication.class
-com\cloudnativeplayground\paymentservice\config\KafkaConfig.class

@@ -1,0 +1,74 @@
+# Java and Maven
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.db
+*.sqlite
+
+# Maven specific
+/target/
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse/IDEA specific
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# System specific
+*.swp
+*.swo
+
+# Spring Boot
+spring.log
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Test outputs
+/test-output/
+
+# H2 Database files
+*.mv.db
+*.h2.db
+
+# Coverage reports
+/coverage/
+*.exec
+
+# Build directories
+/target/
+build/
+
+# Other specific files
+.env
+.idea
+*.lock

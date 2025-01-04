@@ -1,6 +1,0 @@
-com\cloudnativeplayground\orderservice\repository\OrderRepository.class
-com\cloudnativeplayground\orderservice\controller\OrderController.class
-com\cloudnativeplayground\orderservice\model\Order.class
-com\cloudnativeplayground\orderservice\OrderServiceApplication.class
-com\cloudnativeplayground\orderservice\service\OrderService.class
-com\cloudnativeplayground\orderservice\config\KafkaProducerConfig.class

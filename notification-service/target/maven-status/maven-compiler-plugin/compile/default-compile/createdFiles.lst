@@ -1,5 +1,0 @@
-com\cloudnativeplayground\notificationservice\config\KafkaConfig.class
-com\cloudnativeplayground\notificationservice\service\NotificationService.class
-com\cloudnativeplayground\notificationservice\model\Notification.class
-com\cloudnativeplayground\notificationservice\controller\NotificationController.class
-com\cloudnativeplayground\notificationservice\NotificationServiceApplication.class
