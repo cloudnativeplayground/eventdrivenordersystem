@@ -1,0 +1,5 @@
+com\cloudnativeplayground\inventoryservice\repository\InventoryRepository.class
+com\cloudnativeplayground\inventoryservice\InventoryServiceApplication.class
+com\cloudnativeplayground\inventoryservice\service\InventoryService.class
+com\cloudnativeplayground\inventoryservice\controller\InventoryController.class
+com\cloudnativeplayground\inventoryservice\model\InventoryItem.class

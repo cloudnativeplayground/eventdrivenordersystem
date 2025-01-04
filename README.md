@@ -77,13 +77,13 @@ docker-compose up --build
 1. Deploy Kafka and Zookeeper:
 
 ```bash
-kubectl apply -f kubernetes/kafka.yml
+kubectl apply -f kubernetes/kafka.yaml
 ```
 
 2. Deploy application services:
 
 ```bash
-kubectl apply -f kubernetes/services.yml
+kubectl apply -f kubernetes/*.yaml
 ```
 
 ---
